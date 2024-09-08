@@ -9,7 +9,7 @@ import websockets
 import uuid
 
 # ComfyUIのサーバーアドレスを設定
-SERVER_ADDRESS = "tensorboard-nyi5mte01b.clg07azjl.paperspacegradient.com"
+SERVER_ADDRESS = "YOUR_SERVER_ADDRESS"
 CLIENT_ID = str(uuid.uuid4())
 
 # workflowファイルのパス
