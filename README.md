@@ -21,8 +21,8 @@
 
 1. **リポジトリをクローン**：
     ```bash
-    git clone https://github.com/your-repository/comfyui-image-generator.git
-    cd comfyui-image-generator
+    git clone https://github.com/yhayano-ponotech/comfyui-api-example.git
+    cd comfyui-api-example
     ```
 
 2. **依存関係をインストール**：
