@@ -43,10 +43,10 @@
 
 スクリプトを実行する前に、以下の設定を確認してください：
 
-- **ComfyUIサーバーのアドレス**：スクリプト内の`FQDN`変数を、使用しているComfyUIサーバーのFQDN（完全修飾ドメイン名）に更新します。
+- **ComfyUIサーバーのアドレス**：スクリプト内の`SERVER_ADDRESS`変数を、使用しているComfyUIサーバーのFQDN（完全修飾ドメイン名）に更新します。
   
     ```python
-    FQDN = "your-comfyui-server-address"
+    SERVER_ADDRESS = "YOUR_SERVER_ADDRESS"
     ```
 
 - **ワークフローファイル**：`workflow_api.json`ファイルが正しいフォーマットで配置されていることを確認してください。
